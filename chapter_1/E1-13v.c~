@@ -69,7 +69,6 @@ main()
 	printf("\n"); 
 	for (y = 0; y <largestnum+1; ++y)
 		printf("%d",y); 
-	printf("\n"); 	
 }
 
 
